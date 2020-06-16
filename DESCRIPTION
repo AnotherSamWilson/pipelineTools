@@ -1,0 +1,10 @@
+Package: pipelineTools
+Title: Collection of feature engineering, plotting, and support functions
+Version: 1.1.1
+Authors@R: person("Samuel", "Wilson", email = "samwilson303@gmail.com", role = c("aut", "cre"))
+Description: Functions to help with modeling and analysis.
+Encoding: UTF-8
+LazyData: true
+License: file LICENSE
+Imports: crayon, odbc, data.table, DBI, e1071, ggplot2, stats, utils, xgboost, ranger
+RoxygenNote: 7.1.0
